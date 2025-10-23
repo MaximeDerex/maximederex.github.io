@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
  # limit: 3 # leave blank to include all the blog posts
 ---
-I am a CNRS Research Scientist in the Department of Social and Behavioral Sciences at the [Toulouse School of Economics](https://www.tse-fr.eu/groups/department-social-and-behavioral-sciences?tabs=0) and the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/).
+I am a CNRS Research Scientist in the [Department of Social and Behavioral Sciences](https://www.tse-fr.eu/groups/department-social-and-behavioral-sciences?tabs=0) at the Toulouse School of Economics and the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/).
 
 Previously, I worked as a Marie Skłodowska-Curie Fellow in the [Human Behaviour, Culture and Cognition group](https://ecologyconservation.exeter.ac.uk/research/themes/human-behaviour/) at the University of Exeter. From 2014-2017, I was a postdoctoral researcher at the [School of Human Evolution & Social Change](https://shesc.asu.edu/) and the [Institute of Human Origins](https://iho.asu.edu/) at Arizona State University.
 
