@@ -13,7 +13,17 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## In press
+
 <div class="publications">
+  {% bibliography --query @*[status=inpress] %}
+</div>
+
+## Published
+
+<div class="publications">
+  {% bibliography --query @*[status!=inpress] %}
+</div>
 
 {% bibliography %}
 
