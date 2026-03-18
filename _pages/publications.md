@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: 
 description: 
 nav: true
 nav_order: 2
@@ -13,13 +13,13 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-## In press
+### In press
 
 <div class="publications">
   {% bibliography --query @*[status=inpress] %}
 </div>
 
-## Published
+### Published
 
 <div class="publications">
   {% bibliography --query @*[status!=inpress] %}
