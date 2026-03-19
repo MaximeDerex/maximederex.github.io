@@ -25,6 +25,3 @@ nav_order: 2
   {% bibliography --query @*[status!=inpress] %}
 </div>
 
-{% bibliography %}
-
-</div>
