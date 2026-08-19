@@ -14,7 +14,7 @@ hide_title: true
 
 {% include bib_search.liquid %}
 
-#### In press
+#### Accepted in principle / In press
 
 <div class="publications">
   {% bibliography --query @*[status=inpress] %}
