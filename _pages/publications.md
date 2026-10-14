@@ -15,11 +15,13 @@ hide_title: true
 
 {% include bib_search.liquid %}
 
+{% comment %}
 #### In press
 
 <div class="publications">
   {% bibliography --query @*[status=inpress] %}
 </div>
+{% endcomment %}
 
 #### Published
 
